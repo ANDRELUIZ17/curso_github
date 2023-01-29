@@ -2,8 +2,10 @@
 
 //Finalizando o sistema de login
 
-function login (nome, email) {
-    return "Bem vindo";
+function login (nome) {
+    return nome;
 }
 
 //seja bem vindo
+
+//Finalizado o sistema Login
