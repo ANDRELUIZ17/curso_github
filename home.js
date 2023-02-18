@@ -2,8 +2,8 @@ function mostraNome(nome) {
     return nome;
 }
 
-function MostraSobreNome(MostraSobreNome) {
-    return MostraSobreNome;
+function MostraSobreNome(nome, sobreNome) {
+    return nome + sobreNome ;
 }
 
 //Finalizado o sistema da home
